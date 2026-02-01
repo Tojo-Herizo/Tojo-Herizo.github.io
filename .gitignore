@@ -1,0 +1,15 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Environnements virtuels
+.env
+venv/
+env/
